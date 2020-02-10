@@ -225,6 +225,7 @@ class WeatherWidget extends HTMLElement {
         top: 10px;
         right: 12px;
         padding: 4px;
+        cursor: pointer;
       }
 
       .card .content {
